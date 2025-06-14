@@ -9,7 +9,7 @@ from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 
 # Pixabay API Anahtarı
-API_KEY = '45872878-029241c605dbbee08f321f422'
+API_KEY = 'api'
 
 # YouTube API Kimlik doğrulaması için kapsamlar
 SCOPES = ['https://www.googleapis.com/auth/youtube.upload']
